@@ -16,6 +16,7 @@ In ***Figure 1*** you can see an image from [1] where they juxtaposed the networ
 <p align="center">
 <img src="https://github.com/DaniMe98/California-Road-Network-Analysis/blob/main/22-scaled.webp" width="65%" height="65%" text-align="center" />
 </p>
+
 ## Strategy
 
 The **“removal strategy”** chosen for this experiment is based on the betweenness centrality, the goal is to disrupt and stress the network as much as possible, so, I came up with 2 different removal strategies: 
